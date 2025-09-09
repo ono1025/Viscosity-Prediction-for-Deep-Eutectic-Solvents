@@ -16,7 +16,6 @@ Baselines: Random Forest and XGBoost
 Evaluation: Cross-validation with metrics including R², RMSE, MAE, AARD, and Max ARD
 
 📂 Repository Structure
-.
 ├── data/                  # Input dataset (curated and raw)
 │   ├── raw/              # Original experimental data
 │   └── processed/        # Cleaned and feature-selected datasets
