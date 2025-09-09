@@ -1,0 +1,11 @@
+Parameter,Value
+hidden_layers,2
+units,480
+dropout_rate,0.10069810416854146
+learning_rate,0.002709138967161228
+batch_size,16
+l2_lambda,1.2535738166789118e-06
+CV_AARD,4.360889570279447
+N_Features,ALL
+CV_Folds,5
+N_Trials,150
