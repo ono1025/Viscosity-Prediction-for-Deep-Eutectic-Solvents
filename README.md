@@ -1,2 +1,2 @@
 # Viscosity-Prediction-for-Deep-Eutectic-Solvents
-This repository contains the complete workflow for viscosity prediction in deep eutectic solvents (DESs).
+This repository contains the complete workflow for viscosity prediction in deep eutectic solvents (DESs), integrating systematic data preprocessing, molecular descriptor generation (Mordred–RDKit), and advanced machine learning models. The pipeline spans dataset curation, feature engineering, model training (MLP, Random Forest, XGBoost, and Evidential Deep Learning), and evaluation with cross-validation and uncertainty quantification. It provides a reproducible framework for developing accurate and interpretable property prediction models in complex solvent systems.
